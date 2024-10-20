@@ -1,5 +1,5 @@
 <h2 align="center">
-    「 ⎯᳝֟፝֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 」</h2>
+    「⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 」</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/69862e93c57666e0c63e7.jpg">
@@ -9,7 +9,7 @@
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[⎯᳝֟፝֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧](http://t.me/Moonlight_X_Music_bot)
+[⎯𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧](http://t.me/Moonlight_X_Music_bot)
 <h3 align="center">
 <a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic"><img alt="Website" src="https://img.shields.io/badge/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐-red"></a>
 
