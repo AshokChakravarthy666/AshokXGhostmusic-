@@ -14,7 +14,7 @@
 <a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic-"><img alt="Website" src="https://img.shields.io/badge/⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 -blue"></a>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kings_rocky)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/AshokXGhost)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kings_rocky)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
