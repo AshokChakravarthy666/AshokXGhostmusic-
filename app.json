@@ -1,12 +1,12 @@
 {
-  "name": "˹ʀᴏᴄᴋʜᴜsʜ ꭙ ꝛσʙσᴛ˼🫧",
+  "name": "𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
   "logo": "https://telegra.ph/file/69862e93c57666e0c63e7.jpg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Rockhush",
+  "Ashokxghost",
   "MusicBot",
   "telegram-bot",
   "pyrogram"
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ..",
-        "value": "6399386263",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
