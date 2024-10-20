@@ -31,65 +31,10 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
-</h3>
-
-<details>
-<summary><b>𝐕𝐏𝐒</b></summary>
-<br>
-
-Copy these blue words on by on from here to use commands in you own vps.
-</h3>
-
-```console
-sudo apt-get update && sudo apt-get upgrade -y
-```
-```console
-sudo apt-get install python3-pip ffmpeg -y
-```
-```console
-sudo pip3 install -U pip
-```
-```console
-curl -fssL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-```
-```console
-git clone https://github.com/Rockhush237/ChampuMusic &&  cd ChampuMusic
-```
-```console
-pip3 install -U -r requirements.txt
-```
-```console
-cp sample.env .env
-```
-```console
-vi .env
-```
-➤Edit .env with your vars 
-
-</h3>
-
-➤Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
-
-</h3>
-
-➤Please input your vars correctly.
-
-```console
-bash start
-```
-When you see any error after bash start then use this command and again try bash start.👇
-
-```console
-sudo pkill -9 python3
-```
-</details>
-
-<h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
  
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rockhush237/ChampuMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AshokChakravarthy666/AshokXGhostmusic-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -97,7 +42,7 @@ sudo pkill -9 python3
 </h3>
 
 
-<p align="center"><a href="https://replit.com/@shivanshudeo/Champu"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://t.me/dairymilksessionbot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
 <a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
@@ -105,33 +50,13 @@ sudo pkill -9 python3
 
 
 <h3 align="center">
-    ─「 🖤✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐🖤 」─
+    ─「 𝙰𝚂𝙷𝙾𝙺𝚇𝙶𝙷𝙾𝚂𝚃 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/KingS_rocky"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AshokXGhost"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
-
-<p align="center">
-<a href="https://telegram.me/TheChampuStore"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<h3 align="center">
-<a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>             
-<h3 align="center">
-ɪғ ʏᴏᴜ ᴄᴀɴ ᴄʀʏ ғᴏʀ ᴍᴇ...        <h3 align="center">
-     ᴛʀᴜsᴛ ᴍᴇ ɪ ᴄᴀɴ ᴅɪᴇ ғᴏʀ ᴜʜʜ!!
-     <h3 align="center">
-<a href="https://www.youtube.com/@ShivanshuDeo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
-
-
-<h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐ Spotify" width="75%" />](https://open.spotify.com/user/31upue756rj6rctmc2gxdwvj5vri?si=hVSKCshlR3WUDi8qXBKyXw&utm_source=copy-link)
 
 <h3 align="center"> ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs  <h3 align="center">
-<a href="https://github.com/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐"> alt="✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐" /> </a> </h3>
+<a href="https://github.com/AshokChakravarthy666">  ASHOKCHAKARVARTHY </a> </h3>
