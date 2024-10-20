@@ -11,7 +11,7 @@
 
 [⎯𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧](http://t.me/Moonlight_X_Music_bot)
 <h3 align="center">
-<a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic"><img alt="Website" src="https://img.shields.io/badge/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐-red"></a>
+<a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic-"><img alt="Website" src="https://img.shields.io/badge/⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 -red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kings_rocky)
