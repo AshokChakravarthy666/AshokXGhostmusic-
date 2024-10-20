@@ -15,10 +15,9 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/AshokXGhost)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kings_rocky)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
-[![Youtube](https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rockhushh)
+[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+HMHH1y96Sz1jMmVl)
+[![Support Group](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ITKJ6qtpM0hiOGU9)
+
 
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
