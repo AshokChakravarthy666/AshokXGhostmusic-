@@ -1,5 +1,5 @@
 <h2 align="center">
-    「 ✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐ 」</h2>
+    「⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 」</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/69862e93c57666e0c63e7.jpg">
@@ -9,23 +9,22 @@
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[˹✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐˼](https://t.me/kings_rocky)
+[⎯𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧](http://t.me/Moonlight_X_Music_bot)
 <h3 align="center">
-<a href="https://github.com/Rockhush237/ChampuMusic"><img alt="Website" src="https://img.shields.io/badge/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐-red"></a>
+<a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic-"><img alt="Website" src="https://img.shields.io/badge/⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 -blue"></a>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kings_rocky)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kings_rocky)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-F5AD09?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/shivanshudeo?share_id=0SMI0ikB1E4&locale=en-IN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://telegra.ph/%EA%9C%B1n%CE%B9%CE%BD%CE%B1i%D1%95n%CF%85-12-02)
-[![Youtube](https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rockhushh)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/AshokXGhost)
+[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+HMHH1y96Sz1jMmVl)
+[![Support Group](https://img.shields.io/badge/Support_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ITKJ6qtpM0hiOGU9)
+
 
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
-[![MUSIC](https://img.shields.io/badge/-TheChampuBot-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/Rockhushhrobot)
-[![MUSIC](https://img.shields.io/badge/TheKittyXD_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/RockhushhRobot)
-[![MUSIC](https://img.shields.io/badge/itsWaifuBot-%2307405e.svg?&style=for-the-badge&logo=itsWaifuBot&logoColor)](https://t.me/RockhushhRobot)
+[![MUSIC](https://img.shields.io/badge/-MOONLIGHT-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/Moonlight_X_Music_bot)
+[![MUSIC](https://img.shields.io/badge/Dairy_Milk_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/dairymilksessionbot)
+
 
 
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
