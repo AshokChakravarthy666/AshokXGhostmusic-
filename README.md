@@ -22,9 +22,9 @@
 
 <h4>𝐓ʀʏ 𝐌ʏ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐁ᴏᴛ's<h4>
  
-[![MUSIC](https://img.shields.io/badge/-TheChampuBot-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/Rockhushhrobot)
-[![MUSIC](https://img.shields.io/badge/TheKittyXD_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/RockhushhRobot)
-[![MUSIC](https://img.shields.io/badge/itsWaifuBot-%2307405e.svg?&style=for-the-badge&logo=itsWaifuBot&logoColor)](https://t.me/RockhushhRobot)
+[![MUSIC](https://img.shields.io/badge/-MOONLIGHT-E1306C?style=for-the-badge&logo=TheChampuBot&logoColor=green)](https://t.me/Moonlight_X_Music_bot)
+[![MUSIC](https://img.shields.io/badge/Dairy_Milk_Bot-%2307405e.svg?&style=for-the-badge&logo=TheKittyXD_Bot&logoColor)](https://t.me/dairymilksessionbot)
+
 
 
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
