@@ -1,5 +1,5 @@
 <h2 align="center">
-    「 ✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐ 」</h2>
+    「 ⎯᳝֟፝֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 」</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/69862e93c57666e0c63e7.jpg">
@@ -9,9 +9,9 @@
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[˹✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐˼](https://t.me/kings_rocky)
+[⎯᳝֟፝֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧](http://t.me/Moonlight_X_Music_bot)
 <h3 align="center">
-<a href="https://github.com/Rockhush237/ChampuMusic"><img alt="Website" src="https://img.shields.io/badge/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐-red"></a>
+<a href="https://github.com/AshokChakravarthy666/AshokXGhostmusic"><img alt="Website" src="https://img.shields.io/badge/✮͜͡♔ ̶͢ ̶ͨ ̶ͧ ̶ͭ ̶ͤᴋɪɴɢ❥͜࿐-red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kings_rocky)
