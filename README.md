@@ -15,8 +15,8 @@
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/AshokXGhost)
-[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+HMHH1y96Sz1jMmVl)
-[![Support Group](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ITKJ6qtpM0hiOGU9)
+[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+HMHH1y96Sz1jMmVl)
+[![Support Group](https://img.shields.io/badge/Support_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ITKJ6qtpM0hiOGU9)
 
 
 
