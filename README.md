@@ -2,7 +2,7 @@
     「⎯֟↞꯭𝑀𝑶𝑶𝑵 𝑳𝑰𝑮𝑯𝑻🍂꯭༏༏ 🫧 」</h2>
 
 <p align="center">
-  <img src="https://graph.org/file/a151a6a1663029ccdc9ee.jpg">
+  <img src="https://graph.org/file/a151a6a1663029ccdc9ee.jpg" width=150%>
 </p>
 </p>
  <h3></h3>
